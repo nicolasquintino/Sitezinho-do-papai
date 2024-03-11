@@ -1,0 +1,28 @@
+body{
+    font-family: 'Courier New','Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    color: yellow;
+}
+
+header{
+    text-align: center;
+    background-image:url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91295cfb-a5b4-4261-bd97-fe810491162d/dbmya3c-7e84ead1-e7af-4a20-b82b-a0ed25a4b836.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxMjk1Y2ZiLWE1YjQtNDI2MS1iZDk3LWZlODEwNDkxMTYyZFwvZGJteWEzYy03ZTg0ZWFkMS1lN2FmLTRhMjAtYjgyYi1hMGVkMjVhNGI4MzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GJW_06d-1P1PmK8PQXY1Wdl--899VJLWNgcAGP90VPk)
+
+}
+
+
+section{
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    color: black;
+    background-color: #ffd44c;
+}
+
+section div{
+     flex-basis: 30%;
+     margin: 10px;
+     text-align: left;
+}
+
